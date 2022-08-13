@@ -18,9 +18,9 @@
 
 
 <h2>Experience 🎯</h2>
-1. Software Developer | ELL Technologies | May 2022-Aug 2022<br>
-2. Facilities Engineer Intern | Toyota Motors | May 2021-Aug 2021<br>
-3. R&D Engineer Intern | University of Waterloo | Sep 2020-Dec 2020<br>
+1. Software Developer @ ELL Technologies | May 2022-Aug 2022<br>
+2. Facilities Engineer Intern @ Toyota Motors | May 2021-Aug 2021<br>
+3. R&D Engineer Intern @ University of Waterloo | Sep 2020-Dec 2020<br>
 
 
 <h2>Tech Stack 🛠</h2>
