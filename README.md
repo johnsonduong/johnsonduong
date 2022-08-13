@@ -3,18 +3,25 @@
 </a>
 <br/>
 
+<a href="https://www.johnsonduong.ml" target="_blank">
+  <img alt="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 <a href="https://www.linkedin.com/in/johnsonduong/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>   
-<a href="https://www.johnsonduong.ml" target="_blank">
-  <img alt="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 </a>   
 
 <br/>
 <br/>
 🧑🏻‍💻 Previously a Software Developer @ ELL Technologies<br>
 🎓 Computer Engineering student @ the University of Waterloo<br>
-👀 Currently looking for full stack internships!<br>
+👀 Currently looking for Full Stack Developer internships!<br>
+
+
+<h2>Experience 🎯</h2>
+1. Software Developer | ELL Technologies | May 2022-Aug 2022<br>
+2. Facilities Engineer Intern | Toyota Motors | May 2021-Aug 2021<br>
+3. R&D Engineer Intern | University of Waterloo | Sep 2020-Dec 2020<br>
+
 
 <h2>Tech Stack 🛠</h2>
     <a href="" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
