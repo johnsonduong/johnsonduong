@@ -48,4 +48,4 @@
     <a href="" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
 
 ---
-Last Updated On: 12/08/2022
+Last Updated On: 20/09/2022
