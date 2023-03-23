@@ -12,15 +12,16 @@
 
 <br/>
 <br/>
-🧑🏻‍💻 Previously a Software Developer @ ELL Technologies<br>
+🧑🏻‍💻 Software Developer<br>
 🎓 Computer Engineering student @ the University of Waterloo<br>
-👀 Currently looking for Full Stack Developer internships!<br>
+👀 Currently looking for Software Engineering internships!<br>
 
 
 <h2>Experience 🎯</h2>
-1. Software Developer @ ELL Technologies | May 2022-Aug 2022<br>
-2. Facilities Engineer Intern @ Toyota Motors | May 2021-Aug 2021<br>
-3. R&D Engineer Intern @ University of Waterloo | Sep 2020-Dec 2020<br>
+1. Full Stack Developer Intern @ WSP | Jan 2023 - Apr 2023
+2. Software Developer @ ELL Technologies | May 2022 - Aug 2022<br>
+3. Systems Engineering Developer Intern @ Toyota Motors | May 2021 - Aug 2021<br>
+4. Product Development Engineering Intern @ University of Waterloo | Sep 2020 - Dec 2020<br>
 
 
 <h2>Tech Stack 🛠</h2>
@@ -48,4 +49,4 @@
     <a href="" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
 
 ---
-Last Updated On: 20/09/2022
+Last Updated On: 23/03/2023
