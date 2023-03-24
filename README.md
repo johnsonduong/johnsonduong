@@ -19,7 +19,7 @@
 
 <h2>Experience 🎯</h2>
 1. Full Stack Developer Intern @ WSP | Jan 2023 - Apr 2023<br>
-2. Software Developer @ ELL Technologies | May 2022 - Aug 2022<br>
+2. Software Developer @ Everybody Loves Languages | May 2022 - Aug 2022<br>
 3. Systems Engineering Developer Intern @ Toyota Motors | May 2021 - Aug 2021<br>
 4. Product Development Engineering Intern @ University of Waterloo | Sep 2020 - Dec 2020<br>
 
