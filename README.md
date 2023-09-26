@@ -3,7 +3,7 @@
 </a>
 <br/>
 
-<a href="johnsonduong.com" target="_blank">
+<a href="https://www.johnsonduong.com" target="_blank">
   <img alt="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 <a href="https://www.linkedin.com/in/johnsonduong/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
